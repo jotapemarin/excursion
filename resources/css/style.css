@@ -1,1 +1,53 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+}
+
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: center;
+  color: gray;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+footer {
+  text-align: right;
+  color: gray;
+}
+
+.camp p {
+  margin: 21px 0;
+}
+
+.camp img {
+  height: 527px;
+  width: 896px;
+}
+/*# sourceMappingURL=style.css.map */
